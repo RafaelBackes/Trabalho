@@ -9,13 +9,6 @@ package trabalho;
  *
  * @author 632120013
  */
-public class Trabalho {
-
-   
-    public static void main(String[] args) {
-        System.out.println("Olá");
-        System.out.println("oi");
-        
-    }
-    
+public class NovaTela {
+    //olá esta parte é teste 
 }
